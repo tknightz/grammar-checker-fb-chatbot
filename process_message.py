@@ -1,6 +1,6 @@
 import re
 import random
-from grammerchecker import CheckerProcess
+from grammarchecker import CheckerProcess
 
 class Process:
     def __init__(self,string):
